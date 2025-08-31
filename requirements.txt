@@ -1,0 +1,5 @@
+pandas
+openai
+openpyxl
+httpx
+python-dotenv
